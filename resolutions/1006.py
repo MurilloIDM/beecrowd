@@ -1,3 +1,5 @@
+# LINK: https://judge.beecrowd.com/pt/problems/view/1006
+
 a = float(input()) * 2
 b = float(input()) * 3
 c = float(input()) * 5

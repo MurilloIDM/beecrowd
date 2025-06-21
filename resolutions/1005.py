@@ -1,3 +1,5 @@
+# LINK: https://judge.beecrowd.com/pt/problems/view/1005
+
 a = float(input())
 b = float(input())
 
